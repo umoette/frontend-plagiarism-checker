@@ -1,0 +1,1 @@
+# frontend-plagiarism-checker
